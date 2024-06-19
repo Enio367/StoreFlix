@@ -22,5 +22,3 @@ git clone url do projeto
 [<img src="./src/imagens/pasta.png" alt="imagem da pasta abrindo com code">]
 
 
-
-
